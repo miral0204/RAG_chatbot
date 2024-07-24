@@ -1,2 +1,2 @@
 # RAG_chatbot
-Buildi a multi pdf chatbot using RAG
+Build a multi pdf chatbot using RAG
